@@ -1,0 +1,112 @@
+F:\BULGARIA\Final\Solution\Solution\bin\Debug\netcoreapp2.2\Solution.deps.json
+F:\BULGARIA\Final\Solution\Solution\bin\Debug\netcoreapp2.2\Solution.runtimeconfig.json
+F:\BULGARIA\Final\Solution\Solution\bin\Debug\netcoreapp2.2\Solution.runtimeconfig.dev.json
+F:\BULGARIA\Final\Solution\Solution\bin\Debug\netcoreapp2.2\Solution.dll
+F:\BULGARIA\Final\Solution\Solution\bin\Debug\netcoreapp2.2\Solution.pdb
+F:\BULGARIA\Final\Solution\Solution\bin\Debug\netcoreapp2.2\Solution.Views.dll
+F:\BULGARIA\Final\Solution\Solution\bin\Debug\netcoreapp2.2\Solution.Views.pdb
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Solution.csprojAssemblyReference.cache
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Solution.csproj.CoreCompileInputs.cache
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Solution.RazorAssemblyInfo.cache
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Solution.RazorAssemblyInfo.cs
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Solution.AssemblyInfoInputs.cache
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Solution.AssemblyInfo.cs
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Solution.TagHelpers.input.cache
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Solution.TagHelpers.output.cache
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Solution.RazorCoreGenerate.cache
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Solution.RazorTargetAssemblyInfo.cache
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Solution.RazorTargetAssemblyInfo.cs
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Solution.Views.pdb
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Solution.dll
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Solution.pdb
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Solution.csproj.CopyComplete
+F:\BULGARIA\Final\Solution\Solution\bin\Debug\netcoreapp2.2\CC.Core.dll
+F:\BULGARIA\Final\Solution\Solution\bin\Debug\netcoreapp2.2\Domian.Core.dll
+F:\BULGARIA\Final\Solution\Solution\bin\Debug\netcoreapp2.2\CC.Core.pdb
+F:\BULGARIA\Final\Solution\Solution\bin\Debug\netcoreapp2.2\Domian.Core.pdb
+F:\BULGARIA\Final\Solution\Solution\bin\Debug\netcoreapp2.2\App.Service.dll
+F:\BULGARIA\Final\Solution\Solution\bin\Debug\netcoreapp2.2\App.Service.pdb
+F:\BULGARIA\Final\Solution\Solution\bin\Debug\netcoreapp2.2\Microsoft.Practices.Unity.dll
+F:\BULGARIA\Final\Solution\Solution\bin\Debug\netcoreapp2.2\Microsoft.Practices.Unity.xml
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Gateway\Create.g.cshtml.cs
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Gateway\Delete.g.cshtml.cs
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Gateway\Details.g.cshtml.cs
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Gateway\Edit.g.cshtml.cs
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Gateway\Index.g.cshtml.cs
+F:\BULGARIA\Final\Solution\Solution\bin\Debug\netcoreapp2.2\AutoMapper.Net4.dll
+F:\BULGARIA\Final\Solution\Solution\bin\Debug\netcoreapp2.2\AutoMapper.dll
+F:\BULGARIA\Final\Solution\Solution\bin\Debug\netcoreapp2.2\AutoMapper.xml
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Status\Create.g.cshtml.cs
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Status\Delete.g.cshtml.cs
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Status\Details.g.cshtml.cs
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Status\Edit.g.cshtml.cs
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Status\Index.g.cshtml.cs
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Device\Create.g.cshtml.cs
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Device\Delete.g.cshtml.cs
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Device\Details.g.cshtml.cs
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Device\Edit.g.cshtml.cs
+F:\BULGARIA\Final\Solution\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Device\Index.g.cshtml.cs
+F:\BULGARIA\Final\Solution - 8\Solution\bin\Debug\netcoreapp2.2\Solution.deps.json
+F:\BULGARIA\Final\Solution - 8\Solution\bin\Debug\netcoreapp2.2\Solution.runtimeconfig.json
+F:\BULGARIA\Final\Solution - 8\Solution\bin\Debug\netcoreapp2.2\Solution.runtimeconfig.dev.json
+F:\BULGARIA\Final\Solution - 8\Solution\bin\Debug\netcoreapp2.2\Solution.dll
+F:\BULGARIA\Final\Solution - 8\Solution\bin\Debug\netcoreapp2.2\Solution.pdb
+F:\BULGARIA\Final\Solution - 8\Solution\bin\Debug\netcoreapp2.2\Solution.Views.dll
+F:\BULGARIA\Final\Solution - 8\Solution\bin\Debug\netcoreapp2.2\Solution.Views.pdb
+F:\BULGARIA\Final\Solution - 8\Solution\bin\Debug\netcoreapp2.2\App.Service.dll
+F:\BULGARIA\Final\Solution - 8\Solution\bin\Debug\netcoreapp2.2\AutoMapper.dll
+F:\BULGARIA\Final\Solution - 8\Solution\bin\Debug\netcoreapp2.2\AutoMapper.Net4.dll
+F:\BULGARIA\Final\Solution - 8\Solution\bin\Debug\netcoreapp2.2\CC.Core.dll
+F:\BULGARIA\Final\Solution - 8\Solution\bin\Debug\netcoreapp2.2\Domian.Core.dll
+F:\BULGARIA\Final\Solution - 8\Solution\bin\Debug\netcoreapp2.2\App.Service.pdb
+F:\BULGARIA\Final\Solution - 8\Solution\bin\Debug\netcoreapp2.2\CC.Core.pdb
+F:\BULGARIA\Final\Solution - 8\Solution\bin\Debug\netcoreapp2.2\Domian.Core.pdb
+F:\BULGARIA\Final\Solution - 8\Solution\bin\Debug\netcoreapp2.2\AutoMapper.xml
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Solution.csprojAssemblyReference.cache
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Solution.csproj.CoreCompileInputs.cache
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Solution.RazorAssemblyInfo.cache
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Solution.RazorAssemblyInfo.cs
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Solution.AssemblyInfoInputs.cache
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Solution.AssemblyInfo.cs
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Solution.TagHelpers.input.cache
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Solution.TagHelpers.output.cache
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Solution.RazorCoreGenerate.cache
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Device\Create.g.cshtml.cs
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Device\Delete.g.cshtml.cs
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Device\Details.g.cshtml.cs
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Device\Edit.g.cshtml.cs
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Device\Index.g.cshtml.cs
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Gateway\Create.g.cshtml.cs
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Gateway\Delete.g.cshtml.cs
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Gateway\Details.g.cshtml.cs
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Gateway\Edit.g.cshtml.cs
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Gateway\Index.g.cshtml.cs
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Status\Create.g.cshtml.cs
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Status\Delete.g.cshtml.cs
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Status\Details.g.cshtml.cs
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Status\Edit.g.cshtml.cs
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Razor\Views\Status\Index.g.cshtml.cs
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Solution.RazorTargetAssemblyInfo.cache
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Solution.RazorTargetAssemblyInfo.cs
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Solution.Views.pdb
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Solution.csproj.CopyComplete
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Solution.dll
+F:\BULGARIA\Final\Solution - 8\Solution\obj\Debug\netcoreapp2.2\Solution.pdb
+F:\BULGARIA\Final\Solution - 8\Solution\bin\Debug\netcoreapp2.2\Microsoft.Practices.Unity.dll
+F:\BULGARIA\Final\Solution - 8\Solution\bin\Debug\netcoreapp2.2\Microsoft.Practices.Unity.xml

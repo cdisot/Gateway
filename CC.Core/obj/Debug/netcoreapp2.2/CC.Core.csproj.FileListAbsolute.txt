@@ -1,0 +1,70 @@
+F:\BULGARIA\Final\Solution\CC.Core\bin\Debug\netcoreapp2.2\AutoMapper.dll
+F:\BULGARIA\Final\Solution\CC.Core\bin\Debug\netcoreapp2.2\AutoMapper.Net4.dll
+F:\BULGARIA\Final\Solution\CC.Core\bin\Debug\netcoreapp2.2\Domian.Core.dll
+F:\BULGARIA\Final\Solution\CC.Core\bin\Debug\netcoreapp2.2\AutoMapper.xml
+F:\BULGARIA\Final\Solution\CC.Core\obj\Debug\netcoreapp2.2\CC.Core.csprojAssemblyReference.cache
+F:\BULGARIA\Final\Solution\CC.Core\obj\Debug\netcoreapp2.2\CC.Core.Error.Errors.resources
+F:\BULGARIA\Final\Solution\CC.Core\obj\Debug\netcoreapp2.2\CC.Core.csproj.GenerateResource.cache
+F:\BULGARIA\Final\Solution\CC.Core\obj\Debug\netcoreapp2.2\CC.Core.csproj.CoreCompileInputs.cache
+F:\BULGARIA\Final\Solution\CC.Core\obj\Debug\netcoreapp2.2\CC.Core.AssemblyInfoInputs.cache
+F:\BULGARIA\Final\Solution\CC.Core\obj\Debug\netcoreapp2.2\CC.Core.AssemblyInfo.cs
+F:\BULGARIA\Final\Solution\CC.Core\bin\Debug\netcoreapp2.2\CC.Core.deps.json
+F:\BULGARIA\Final\Solution\CC.Core\bin\Debug\netcoreapp2.2\CC.Core.runtimeconfig.json
+F:\BULGARIA\Final\Solution\CC.Core\bin\Debug\netcoreapp2.2\CC.Core.runtimeconfig.dev.json
+F:\BULGARIA\Final\Solution\CC.Core\bin\Debug\netcoreapp2.2\CC.Core.dll
+F:\BULGARIA\Final\Solution\CC.Core\bin\Debug\netcoreapp2.2\CC.Core.pdb
+F:\BULGARIA\Final\Solution\CC.Core\bin\Debug\netcoreapp2.2\Domian.Core.pdb
+F:\BULGARIA\Final\Solution\CC.Core\obj\Debug\netcoreapp2.2\CC.Core.csproj.CopyComplete
+F:\BULGARIA\Final\Solution\CC.Core\obj\Debug\netcoreapp2.2\CC.Core.dll
+F:\BULGARIA\Final\Solution\CC.Core\obj\Debug\netcoreapp2.2\CC.Core.pdb
+F:\BULGARIA\Final\Solution\CC.Core\bin\Debug\netcoreapp2.2\Microsoft.Practices.Unity.Configuration.dll
+F:\BULGARIA\Final\Solution\CC.Core\bin\Debug\netcoreapp2.2\Microsoft.Practices.Unity.dll
+F:\BULGARIA\Final\Solution\CC.Core\bin\Debug\netcoreapp2.2\Microsoft.Practices.Unity.RegistrationByConvention.dll
+F:\BULGARIA\Final\Solution\CC.Core\bin\Debug\netcoreapp2.2\Microsoft.Practices.Unity.xml
+F:\BULGARIA\Final\Solution\CC.Core\bin\Debug\netcoreapp2.2\Microsoft.Practices.Unity.Configuration.xml
+F:\BULGARIA\Final\Solution\CC.Core\bin\Debug\netcoreapp2.2\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Yasniel\Desktop\Solution\CC.Core\obj\Debug\netcoreapp2.2\CC.Core.csprojAssemblyReference.cache
+C:\Users\Yasniel\Desktop\Solution\CC.Core\obj\Debug\netcoreapp2.2\CC.Core.Error.Errors.resources
+C:\Users\Yasniel\Desktop\Solution\CC.Core\obj\Debug\netcoreapp2.2\CC.Core.csproj.GenerateResource.cache
+C:\Users\Yasniel\Desktop\Solution\CC.Core\obj\Debug\netcoreapp2.2\CC.Core.csproj.CoreCompileInputs.cache
+C:\Users\Yasniel\Desktop\Solution\CC.Core\obj\Debug\netcoreapp2.2\CC.Core.AssemblyInfoInputs.cache
+C:\Users\Yasniel\Desktop\Solution\CC.Core\obj\Debug\netcoreapp2.2\CC.Core.AssemblyInfo.cs
+C:\Users\Yasniel\Desktop\Solution\CC.Core\obj\Debug\netcoreapp2.2\CC.Core.dll
+C:\Users\Yasniel\Desktop\Solution\CC.Core\obj\Debug\netcoreapp2.2\CC.Core.pdb
+C:\Users\Yasniel\Desktop\Solution\CC.Core\bin\Debug\netcoreapp2.2\CC.Core.deps.json
+C:\Users\Yasniel\Desktop\Solution\CC.Core\bin\Debug\netcoreapp2.2\CC.Core.runtimeconfig.json
+C:\Users\Yasniel\Desktop\Solution\CC.Core\bin\Debug\netcoreapp2.2\CC.Core.runtimeconfig.dev.json
+C:\Users\Yasniel\Desktop\Solution\CC.Core\bin\Debug\netcoreapp2.2\CC.Core.dll
+C:\Users\Yasniel\Desktop\Solution\CC.Core\bin\Debug\netcoreapp2.2\CC.Core.pdb
+C:\Users\Yasniel\Desktop\Solution\CC.Core\bin\Debug\netcoreapp2.2\AutoMapper.dll
+C:\Users\Yasniel\Desktop\Solution\CC.Core\bin\Debug\netcoreapp2.2\AutoMapper.Net4.dll
+C:\Users\Yasniel\Desktop\Solution\CC.Core\bin\Debug\netcoreapp2.2\Domian.Core.dll
+C:\Users\Yasniel\Desktop\Solution\CC.Core\bin\Debug\netcoreapp2.2\Domian.Core.pdb
+C:\Users\Yasniel\Desktop\Solution\CC.Core\bin\Debug\netcoreapp2.2\AutoMapper.pdb
+C:\Users\Yasniel\Desktop\Solution\CC.Core\bin\Debug\netcoreapp2.2\AutoMapper.xml
+C:\Users\Yasniel\Desktop\Solution\CC.Core\bin\Debug\netcoreapp2.2\AutoMapper.Net4.pdb
+C:\Users\Yasniel\Desktop\Solution\CC.Core\obj\Debug\netcoreapp2.2\CC.Core.csproj.CopyComplete
+F:\BULGARIA\Final\Solution - 8\CC.Core\obj\Debug\netcoreapp2.2\CC.Core.csprojAssemblyReference.cache
+F:\BULGARIA\Final\Solution - 8\CC.Core\obj\Debug\netcoreapp2.2\CC.Core.Error.Errors.resources
+F:\BULGARIA\Final\Solution - 8\CC.Core\obj\Debug\netcoreapp2.2\CC.Core.csproj.GenerateResource.cache
+F:\BULGARIA\Final\Solution - 8\CC.Core\obj\Debug\netcoreapp2.2\CC.Core.csproj.CoreCompileInputs.cache
+F:\BULGARIA\Final\Solution - 8\CC.Core\obj\Debug\netcoreapp2.2\CC.Core.AssemblyInfoInputs.cache
+F:\BULGARIA\Final\Solution - 8\CC.Core\obj\Debug\netcoreapp2.2\CC.Core.AssemblyInfo.cs
+F:\BULGARIA\Final\Solution - 8\CC.Core\obj\Debug\netcoreapp2.2\CC.Core.dll
+F:\BULGARIA\Final\Solution - 8\CC.Core\obj\Debug\netcoreapp2.2\CC.Core.pdb
+F:\BULGARIA\Final\Solution - 8\CC.Core\bin\Debug\netcoreapp2.2\CC.Core.deps.json
+F:\BULGARIA\Final\Solution - 8\CC.Core\bin\Debug\netcoreapp2.2\CC.Core.runtimeconfig.json
+F:\BULGARIA\Final\Solution - 8\CC.Core\bin\Debug\netcoreapp2.2\CC.Core.runtimeconfig.dev.json
+F:\BULGARIA\Final\Solution - 8\CC.Core\bin\Debug\netcoreapp2.2\CC.Core.dll
+F:\BULGARIA\Final\Solution - 8\CC.Core\bin\Debug\netcoreapp2.2\CC.Core.pdb
+F:\BULGARIA\Final\Solution - 8\CC.Core\bin\Debug\netcoreapp2.2\AutoMapper.dll
+F:\BULGARIA\Final\Solution - 8\CC.Core\bin\Debug\netcoreapp2.2\AutoMapper.Net4.dll
+F:\BULGARIA\Final\Solution - 8\CC.Core\bin\Debug\netcoreapp2.2\Domian.Core.dll
+F:\BULGARIA\Final\Solution - 8\CC.Core\bin\Debug\netcoreapp2.2\Microsoft.Practices.Unity.Configuration.dll
+F:\BULGARIA\Final\Solution - 8\CC.Core\bin\Debug\netcoreapp2.2\Microsoft.Practices.Unity.dll
+F:\BULGARIA\Final\Solution - 8\CC.Core\bin\Debug\netcoreapp2.2\Microsoft.Practices.Unity.RegistrationByConvention.dll
+F:\BULGARIA\Final\Solution - 8\CC.Core\bin\Debug\netcoreapp2.2\Domian.Core.pdb
+F:\BULGARIA\Final\Solution - 8\CC.Core\bin\Debug\netcoreapp2.2\Microsoft.Practices.Unity.xml
+F:\BULGARIA\Final\Solution - 8\CC.Core\bin\Debug\netcoreapp2.2\Microsoft.Practices.Unity.Configuration.xml
+F:\BULGARIA\Final\Solution - 8\CC.Core\bin\Debug\netcoreapp2.2\Microsoft.Practices.Unity.RegistrationByConvention.xml
+F:\BULGARIA\Final\Solution - 8\CC.Core\obj\Debug\netcoreapp2.2\CC.Core.csproj.CopyComplete

@@ -1,0 +1,27 @@
+F:\BULGARIA\Final\Solution\Domian.Core\bin\Debug\netcoreapp2.2\Domian.Core.deps.json
+F:\BULGARIA\Final\Solution\Domian.Core\bin\Debug\netcoreapp2.2\Domian.Core.dll
+F:\BULGARIA\Final\Solution\Domian.Core\bin\Debug\netcoreapp2.2\Domian.Core.pdb
+F:\BULGARIA\Final\Solution\Domian.Core\obj\Debug\netcoreapp2.2\Domian.Core.csprojAssemblyReference.cache
+F:\BULGARIA\Final\Solution\Domian.Core\obj\Debug\netcoreapp2.2\Domian.Core.csproj.CoreCompileInputs.cache
+F:\BULGARIA\Final\Solution\Domian.Core\obj\Debug\netcoreapp2.2\Domian.Core.AssemblyInfoInputs.cache
+F:\BULGARIA\Final\Solution\Domian.Core\obj\Debug\netcoreapp2.2\Domian.Core.AssemblyInfo.cs
+F:\BULGARIA\Final\Solution\Domian.Core\obj\Debug\netcoreapp2.2\Domian.Core.dll
+F:\BULGARIA\Final\Solution\Domian.Core\obj\Debug\netcoreapp2.2\Domian.Core.pdb
+C:\Users\Yasniel\Desktop\Solution\Domian.Core\bin\Debug\netcoreapp2.2\Domian.Core.deps.json
+C:\Users\Yasniel\Desktop\Solution\Domian.Core\bin\Debug\netcoreapp2.2\Domian.Core.dll
+C:\Users\Yasniel\Desktop\Solution\Domian.Core\bin\Debug\netcoreapp2.2\Domian.Core.pdb
+C:\Users\Yasniel\Desktop\Solution\Domian.Core\obj\Debug\netcoreapp2.2\Domian.Core.csprojAssemblyReference.cache
+C:\Users\Yasniel\Desktop\Solution\Domian.Core\obj\Debug\netcoreapp2.2\Domian.Core.csproj.CoreCompileInputs.cache
+C:\Users\Yasniel\Desktop\Solution\Domian.Core\obj\Debug\netcoreapp2.2\Domian.Core.AssemblyInfoInputs.cache
+C:\Users\Yasniel\Desktop\Solution\Domian.Core\obj\Debug\netcoreapp2.2\Domian.Core.AssemblyInfo.cs
+C:\Users\Yasniel\Desktop\Solution\Domian.Core\obj\Debug\netcoreapp2.2\Domian.Core.dll
+C:\Users\Yasniel\Desktop\Solution\Domian.Core\obj\Debug\netcoreapp2.2\Domian.Core.pdb
+F:\BULGARIA\Final\Solution - 8\Domian.Core\bin\Debug\netcoreapp2.2\Domian.Core.deps.json
+F:\BULGARIA\Final\Solution - 8\Domian.Core\bin\Debug\netcoreapp2.2\Domian.Core.dll
+F:\BULGARIA\Final\Solution - 8\Domian.Core\bin\Debug\netcoreapp2.2\Domian.Core.pdb
+F:\BULGARIA\Final\Solution - 8\Domian.Core\obj\Debug\netcoreapp2.2\Domian.Core.csprojAssemblyReference.cache
+F:\BULGARIA\Final\Solution - 8\Domian.Core\obj\Debug\netcoreapp2.2\Domian.Core.csproj.CoreCompileInputs.cache
+F:\BULGARIA\Final\Solution - 8\Domian.Core\obj\Debug\netcoreapp2.2\Domian.Core.AssemblyInfoInputs.cache
+F:\BULGARIA\Final\Solution - 8\Domian.Core\obj\Debug\netcoreapp2.2\Domian.Core.AssemblyInfo.cs
+F:\BULGARIA\Final\Solution - 8\Domian.Core\obj\Debug\netcoreapp2.2\Domian.Core.dll
+F:\BULGARIA\Final\Solution - 8\Domian.Core\obj\Debug\netcoreapp2.2\Domian.Core.pdb

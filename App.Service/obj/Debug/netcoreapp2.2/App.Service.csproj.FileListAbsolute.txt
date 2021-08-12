@@ -1,0 +1,54 @@
+F:\BULGARIA\Final\Solution\App.Service\bin\Debug\netcoreapp2.2\App.Service.deps.json
+F:\BULGARIA\Final\Solution\App.Service\bin\Debug\netcoreapp2.2\App.Service.dll
+F:\BULGARIA\Final\Solution\App.Service\bin\Debug\netcoreapp2.2\App.Service.pdb
+F:\BULGARIA\Final\Solution\App.Service\bin\Debug\netcoreapp2.2\CC.Core.dll
+F:\BULGARIA\Final\Solution\App.Service\bin\Debug\netcoreapp2.2\Domian.Core.dll
+F:\BULGARIA\Final\Solution\App.Service\bin\Debug\netcoreapp2.2\AutoMapper.dll
+F:\BULGARIA\Final\Solution\App.Service\bin\Debug\netcoreapp2.2\CC.Core.pdb
+F:\BULGARIA\Final\Solution\App.Service\bin\Debug\netcoreapp2.2\Domian.Core.pdb
+F:\BULGARIA\Final\Solution\App.Service\bin\Debug\netcoreapp2.2\AutoMapper.xml
+F:\BULGARIA\Final\Solution\App.Service\obj\Debug\netcoreapp2.2\App.Service.csprojAssemblyReference.cache
+F:\BULGARIA\Final\Solution\App.Service\obj\Debug\netcoreapp2.2\App.Service.csproj.CoreCompileInputs.cache
+F:\BULGARIA\Final\Solution\App.Service\obj\Debug\netcoreapp2.2\App.Service.AssemblyInfoInputs.cache
+F:\BULGARIA\Final\Solution\App.Service\obj\Debug\netcoreapp2.2\App.Service.AssemblyInfo.cs
+F:\BULGARIA\Final\Solution\App.Service\obj\Debug\netcoreapp2.2\App.Service.csproj.CopyComplete
+F:\BULGARIA\Final\Solution\App.Service\obj\Debug\netcoreapp2.2\App.Service.dll
+F:\BULGARIA\Final\Solution\App.Service\obj\Debug\netcoreapp2.2\App.Service.pdb
+F:\BULGARIA\Final\Solution\App.Service\bin\Debug\netcoreapp2.2\Microsoft.Practices.Unity.dll
+F:\BULGARIA\Final\Solution\App.Service\bin\Debug\netcoreapp2.2\Microsoft.Practices.Unity.xml
+C:\Users\Yasniel\Desktop\Solution\App.Service\bin\Debug\netcoreapp2.2\App.Service.deps.json
+C:\Users\Yasniel\Desktop\Solution\App.Service\bin\Debug\netcoreapp2.2\App.Service.dll
+C:\Users\Yasniel\Desktop\Solution\App.Service\bin\Debug\netcoreapp2.2\App.Service.pdb
+C:\Users\Yasniel\Desktop\Solution\App.Service\bin\Debug\netcoreapp2.2\CC.Core.dll
+C:\Users\Yasniel\Desktop\Solution\App.Service\bin\Debug\netcoreapp2.2\Domian.Core.dll
+C:\Users\Yasniel\Desktop\Solution\App.Service\bin\Debug\netcoreapp2.2\AutoMapper.dll
+C:\Users\Yasniel\Desktop\Solution\App.Service\bin\Debug\netcoreapp2.2\CC.Core.pdb
+C:\Users\Yasniel\Desktop\Solution\App.Service\bin\Debug\netcoreapp2.2\Domian.Core.pdb
+C:\Users\Yasniel\Desktop\Solution\App.Service\bin\Debug\netcoreapp2.2\AutoMapper.xml
+C:\Users\Yasniel\Desktop\Solution\App.Service\obj\Debug\netcoreapp2.2\App.Service.csprojAssemblyReference.cache
+C:\Users\Yasniel\Desktop\Solution\App.Service\obj\Debug\netcoreapp2.2\App.Service.csproj.CoreCompileInputs.cache
+C:\Users\Yasniel\Desktop\Solution\App.Service\obj\Debug\netcoreapp2.2\App.Service.AssemblyInfoInputs.cache
+C:\Users\Yasniel\Desktop\Solution\App.Service\obj\Debug\netcoreapp2.2\App.Service.AssemblyInfo.cs
+C:\Users\Yasniel\Desktop\Solution\App.Service\obj\Debug\netcoreapp2.2\App.Service.csproj.CopyComplete
+C:\Users\Yasniel\Desktop\Solution\App.Service\obj\Debug\netcoreapp2.2\App.Service.dll
+C:\Users\Yasniel\Desktop\Solution\App.Service\obj\Debug\netcoreapp2.2\App.Service.pdb
+C:\Users\Yasniel\Desktop\Solution\App.Service\bin\Debug\netcoreapp2.2\AutoMapper.pdb
+F:\BULGARIA\Final\Solution - 8\App.Service\bin\Debug\netcoreapp2.2\App.Service.deps.json
+F:\BULGARIA\Final\Solution - 8\App.Service\bin\Debug\netcoreapp2.2\App.Service.dll
+F:\BULGARIA\Final\Solution - 8\App.Service\bin\Debug\netcoreapp2.2\App.Service.pdb
+F:\BULGARIA\Final\Solution - 8\App.Service\bin\Debug\netcoreapp2.2\CC.Core.dll
+F:\BULGARIA\Final\Solution - 8\App.Service\bin\Debug\netcoreapp2.2\Domian.Core.dll
+F:\BULGARIA\Final\Solution - 8\App.Service\bin\Debug\netcoreapp2.2\AutoMapper.dll
+F:\BULGARIA\Final\Solution - 8\App.Service\bin\Debug\netcoreapp2.2\CC.Core.pdb
+F:\BULGARIA\Final\Solution - 8\App.Service\bin\Debug\netcoreapp2.2\Domian.Core.pdb
+F:\BULGARIA\Final\Solution - 8\App.Service\bin\Debug\netcoreapp2.2\AutoMapper.pdb
+F:\BULGARIA\Final\Solution - 8\App.Service\bin\Debug\netcoreapp2.2\AutoMapper.xml
+F:\BULGARIA\Final\Solution - 8\App.Service\obj\Debug\netcoreapp2.2\App.Service.csprojAssemblyReference.cache
+F:\BULGARIA\Final\Solution - 8\App.Service\obj\Debug\netcoreapp2.2\App.Service.csproj.CoreCompileInputs.cache
+F:\BULGARIA\Final\Solution - 8\App.Service\obj\Debug\netcoreapp2.2\App.Service.AssemblyInfoInputs.cache
+F:\BULGARIA\Final\Solution - 8\App.Service\obj\Debug\netcoreapp2.2\App.Service.AssemblyInfo.cs
+F:\BULGARIA\Final\Solution - 8\App.Service\obj\Debug\netcoreapp2.2\App.Service.csproj.CopyComplete
+F:\BULGARIA\Final\Solution - 8\App.Service\obj\Debug\netcoreapp2.2\App.Service.dll
+F:\BULGARIA\Final\Solution - 8\App.Service\obj\Debug\netcoreapp2.2\App.Service.pdb
+F:\BULGARIA\Final\Solution - 8\App.Service\bin\Debug\netcoreapp2.2\Microsoft.Practices.Unity.dll
+F:\BULGARIA\Final\Solution - 8\App.Service\bin\Debug\netcoreapp2.2\Microsoft.Practices.Unity.xml

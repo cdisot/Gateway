@@ -1,0 +1,73 @@
+﻿@model Solution.Models.DeviceDto
+
+@{
+
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Create</h1>
+
+<h4>Device</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <p class="text-danger"> @ViewBag.ErrorMessage</p>
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="UID" class="control-label"></label>
+                <input asp-for="UID" class="form-control" />
+                <span asp-validation-for="UID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Vendor" class="control-label"></label>
+                <input asp-for="Vendor" class="form-control" />
+                <span asp-validation-for="Vendor" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DateCreate" class="control-label"></label>
+                <input asp-for="DateCreate" type="datetime" class="form-control" />
+                <span asp-validation-for="DateCreate" class="text-danger"></span>
+            </div>
+
+
+            @if (ViewBag.gatewaysCount > 0)
+            {
+                <div class="form-group">
+                    <label asp-for="Gateway" class="control-label"></label>
+                    @Html.DropDownList("GatewayId", ViewBag.gateways as SelectList, new { @class = "form-control" })
+                    <span asp-validation-for="Gateway" class="text-danger"></span>
+                </div>
+            }
+
+            @if (ViewBag.statusCount > 0)
+            {
+                <div class="form-group">
+                    <label asp-for="Status" class="control-label"></label>
+                    @Html.DropDownList("StatusId", ViewBag.status as SelectList, new { @class = "form-control" })
+                    <span asp-validation-for="Status" class="text-danger"></span>
+                </div>
+            }
+
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
